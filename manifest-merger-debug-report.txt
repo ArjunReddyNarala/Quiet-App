@@ -1,0 +1,546 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:23:9-25:47
+	android:value
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:24:13-58
+manifest
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d1a1408b93933640b4fd76cf00710353\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d8979af8a73764c39a8cadc6fefa7acf\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d0d2f9eea2bb99e6706c23eb7a2a8b1e\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3429c272863fc1e5b465d2e8a2b7badb\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7c935faf2dc3be1d67aa1e7cca2bef99\transformed\jetified-play-services-places-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\702892c14d83151f623b29c547b67929\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a78a601b9ffda8eb86c564b27de7641\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\Durga Vinay\.gradle\caches\transforms-3\4a118b34aa435b2014f814ee38f21adb\transformed\jetified-android-gif-drawable-1.2.22\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\32605e851ca2c1be77ec032a446cb91d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e9becd3508ef20783c0c3da22100b521\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a13acb6c227e0c0a19f55940d3b6406\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d23922f92aed69ccacc434f074ba4be9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d278be6c63115ac737463f6636107c92\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a297838de5c7edf145e3cbb996f80b45\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\159e9fae4c4f2cb968a79e171f72d39f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\9ea2bb7a688a90f40227f49d1b2174b3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\68c878209997cd9be84be487faaa146e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a34bc1d6ed5abbd1d6d3fd4633c39673\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\573da7ca1bd6b48ef6daf435faf9b022\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\36ebcbeb87de2272c2e142ddf4400240\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\48133f1ce19ef9fc9ea89e7fc4253f3c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3241cce5f956e55f99d41c67ffcc6b4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\8450cf7a4d9dbdae520e773bee91af3c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\4be6cee1d2ee3681e026a5b1238d8566\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\68ed75a284dc1760d9f1c332c73181bd\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\225bddee649f5bf390ff9808ad741916\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2535f9b31a50e54b62273115f58bae1f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\cd8e1d078b26ebb0bf903d162d676e89\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\996106b9e2ce5cdd8537c2c2c5b1a972\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\30b985abc2a533e8208acaab8019f46a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2a87f451db6c8f010d7c304bc5bbb176\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3ce4630affb06c60d2b72af4a003af8c\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\dc205ff094d4d6b5d1d9b2d5f95f4716\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\b82a50cd424d3b7e8709aa17fa5bd77e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f0640cc924e6655a6a70ee852fd95986\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\45cff5bca79c617627193d0cfc652b8c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\59d6f4939deb6a879a2c47bafccc0213\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\78e62098079992e1a858e8a0b756ee01\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\ced3239bcbfd48ad0ef895d8f1233595\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a615fe2aca4b3ba9cde53c8ed1e6e69a\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\81e96571c10b712fa4c7bc1ed2b15162\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\705af1d4a665eccd48cef655c900d24f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\1ecd6b89b4d0b4a75cf13052c09069de\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2397f23810b8035de4f82d065aff48cd\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3dfab04e4f04effdf35634a72c259e57\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\fc0757dd9382ec7054883237bbad0e36\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\03b0a58cff8fcce1aac47f5c6f0ab7e4\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\81c84ddf492f16e66317beb74f0afde8\transformed\jetified-relinker-1.4.1\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:5:5-85
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:5:22-82
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:9:5-81
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:8:5-85
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:8:22-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:13:5-76
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:11:5-76
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.USE_EXACT_ALARM
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:14:22-71
+application
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:16:5-87:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d1a1408b93933640b4fd76cf00710353\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d1a1408b93933640b4fd76cf00710353\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d8979af8a73764c39a8cadc6fefa7acf\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d8979af8a73764c39a8cadc6fefa7acf\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7c935faf2dc3be1d67aa1e7cca2bef99\transformed\jetified-play-services-places-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7c935faf2dc3be1d67aa1e7cca2bef99\transformed\jetified-play-services-places-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\702892c14d83151f623b29c547b67929\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\702892c14d83151f623b29c547b67929\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a78a601b9ffda8eb86c564b27de7641\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a78a601b9ffda8eb86c564b27de7641\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e9becd3508ef20783c0c3da22100b521\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e9becd3508ef20783c0c3da22100b521\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a13acb6c227e0c0a19f55940d3b6406\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a13acb6c227e0c0a19f55940d3b6406\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d23922f92aed69ccacc434f074ba4be9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d23922f92aed69ccacc434f074ba4be9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\b82a50cd424d3b7e8709aa17fa5bd77e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\b82a50cd424d3b7e8709aa17fa5bd77e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\45cff5bca79c617627193d0cfc652b8c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\45cff5bca79c617627193d0cfc652b8c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		REJECTED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:18:9-41
+	tools:targetApi
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:21:9-28
+	android:allowBackup
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:17:9-35
+	tools:remove
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:20:9-51
+	android:theme
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:19:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:27:9-29:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d23922f92aed69ccacc434f074ba4be9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d23922f92aed69ccacc434f074ba4be9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:29:13-66
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:28:13-58
+activity#com.example.quiettimeapp.SplashScreenActivity
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:34:13-36
+	android:configChanges
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:32:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.example.quiettimeapp.MainActivity
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:41:9-43:39
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:42:13-41
+activity#com.example.quiettimeapp.TimeTable.TimetableSetUpActivity
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:44:9-46:39
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:45:13-61
+activity#com.example.quiettimeapp.GeoFencing.GeoFencing
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:47:9-49:39
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:48:13-50
+activity#com.example.quiettimeapp.Wifi.WifiSetUpActivity
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:50:9-52:39
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:51:13-51
+activity#com.example.quiettimeapp.GeneralLocations.GeneralLocations
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:53:9-55:39
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:54:13-62
+receiver#com.example.quiettimeapp.Wifi.WifiBroadcastReceiver
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:57:9-65:20
+	android:enabled
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:59:13-35
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:58:13-55
+intent-filter#action:name:android.net.wifi.STATE_CHANGE+action:name:android.net.wifi.supplicant.CONNECTION_CHANGE
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:61:13-64:29
+action#android.net.wifi.STATE_CHANGE
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:62:17-72
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:62:25-69
+action#android.net.wifi.supplicant.CONNECTION_CHANGE
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:63:17-88
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:63:25-85
+receiver#com.example.quiettimeapp.TimeTable.AlarmReceiver
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:67:9-61
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:67:19-58
+receiver#com.example.quiettimeapp.GeneralLocations.LocationUpdatesReceiver
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:69:9-75:20
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:70:13-69
+intent-filter#action:name:com.example.myapp.ACTION_LOCATION_UPDATE
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:72:13-74:29
+action#com.example.myapp.ACTION_LOCATION_UPDATE
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:73:17-83
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:73:25-80
+receiver#com.example.quiettimeapp.GeoFencing.GeofenceBroadcastReceiver
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:77:9-85:20
+	android:exported
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:78:13-65
+intent-filter#action:name:com.yourapp.ACTION_GEOFENCE_ENTERED+action:name:com.yourapp.ACTION_GEOFENCE_EXITED+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:80:13-84:29
+action#com.yourapp.ACTION_GEOFENCE_ENTERED
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:81:17-78
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:81:25-75
+action#com.yourapp.ACTION_GEOFENCE_EXITED
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:82:25-74
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:83:17-76
+	android:name
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml:83:27-73
+uses-sdk
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d1a1408b93933640b4fd76cf00710353\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d1a1408b93933640b4fd76cf00710353\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d8979af8a73764c39a8cadc6fefa7acf\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d8979af8a73764c39a8cadc6fefa7acf\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d0d2f9eea2bb99e6706c23eb7a2a8b1e\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d0d2f9eea2bb99e6706c23eb7a2a8b1e\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3429c272863fc1e5b465d2e8a2b7badb\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3429c272863fc1e5b465d2e8a2b7badb\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7c935faf2dc3be1d67aa1e7cca2bef99\transformed\jetified-play-services-places-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7c935faf2dc3be1d67aa1e7cca2bef99\transformed\jetified-play-services-places-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\702892c14d83151f623b29c547b67929\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\702892c14d83151f623b29c547b67929\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a78a601b9ffda8eb86c564b27de7641\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a78a601b9ffda8eb86c564b27de7641\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\Durga Vinay\.gradle\caches\transforms-3\4a118b34aa435b2014f814ee38f21adb\transformed\jetified-android-gif-drawable-1.2.22\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\Durga Vinay\.gradle\caches\transforms-3\4a118b34aa435b2014f814ee38f21adb\transformed\jetified-android-gif-drawable-1.2.22\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\32605e851ca2c1be77ec032a446cb91d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\32605e851ca2c1be77ec032a446cb91d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e9becd3508ef20783c0c3da22100b521\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e9becd3508ef20783c0c3da22100b521\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a13acb6c227e0c0a19f55940d3b6406\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a13acb6c227e0c0a19f55940d3b6406\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d23922f92aed69ccacc434f074ba4be9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d23922f92aed69ccacc434f074ba4be9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d278be6c63115ac737463f6636107c92\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Durga Vinay\.gradle\caches\transforms-3\d278be6c63115ac737463f6636107c92\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a297838de5c7edf145e3cbb996f80b45\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a297838de5c7edf145e3cbb996f80b45\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\159e9fae4c4f2cb968a79e171f72d39f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\159e9fae4c4f2cb968a79e171f72d39f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\9ea2bb7a688a90f40227f49d1b2174b3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\9ea2bb7a688a90f40227f49d1b2174b3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\68c878209997cd9be84be487faaa146e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\68c878209997cd9be84be487faaa146e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a34bc1d6ed5abbd1d6d3fd4633c39673\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a34bc1d6ed5abbd1d6d3fd4633c39673\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\573da7ca1bd6b48ef6daf435faf9b022\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\573da7ca1bd6b48ef6daf435faf9b022\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\36ebcbeb87de2272c2e142ddf4400240\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\36ebcbeb87de2272c2e142ddf4400240\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\48133f1ce19ef9fc9ea89e7fc4253f3c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\48133f1ce19ef9fc9ea89e7fc4253f3c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3241cce5f956e55f99d41c67ffcc6b4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3241cce5f956e55f99d41c67ffcc6b4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\8450cf7a4d9dbdae520e773bee91af3c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\8450cf7a4d9dbdae520e773bee91af3c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\4be6cee1d2ee3681e026a5b1238d8566\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\4be6cee1d2ee3681e026a5b1238d8566\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\68ed75a284dc1760d9f1c332c73181bd\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\68ed75a284dc1760d9f1c332c73181bd\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\225bddee649f5bf390ff9808ad741916\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\225bddee649f5bf390ff9808ad741916\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2535f9b31a50e54b62273115f58bae1f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2535f9b31a50e54b62273115f58bae1f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\cd8e1d078b26ebb0bf903d162d676e89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\cd8e1d078b26ebb0bf903d162d676e89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\996106b9e2ce5cdd8537c2c2c5b1a972\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\996106b9e2ce5cdd8537c2c2c5b1a972\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\30b985abc2a533e8208acaab8019f46a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\30b985abc2a533e8208acaab8019f46a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2a87f451db6c8f010d7c304bc5bbb176\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2a87f451db6c8f010d7c304bc5bbb176\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3ce4630affb06c60d2b72af4a003af8c\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3ce4630affb06c60d2b72af4a003af8c\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\dc205ff094d4d6b5d1d9b2d5f95f4716\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\dc205ff094d4d6b5d1d9b2d5f95f4716\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\b82a50cd424d3b7e8709aa17fa5bd77e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\b82a50cd424d3b7e8709aa17fa5bd77e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f0640cc924e6655a6a70ee852fd95986\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f0640cc924e6655a6a70ee852fd95986\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\45cff5bca79c617627193d0cfc652b8c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\45cff5bca79c617627193d0cfc652b8c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\59d6f4939deb6a879a2c47bafccc0213\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\59d6f4939deb6a879a2c47bafccc0213\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\78e62098079992e1a858e8a0b756ee01\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\78e62098079992e1a858e8a0b756ee01\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\ced3239bcbfd48ad0ef895d8f1233595\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\ced3239bcbfd48ad0ef895d8f1233595\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a615fe2aca4b3ba9cde53c8ed1e6e69a\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\a615fe2aca4b3ba9cde53c8ed1e6e69a\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\81e96571c10b712fa4c7bc1ed2b15162\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\81e96571c10b712fa4c7bc1ed2b15162\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\705af1d4a665eccd48cef655c900d24f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\705af1d4a665eccd48cef655c900d24f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\1ecd6b89b4d0b4a75cf13052c09069de\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\1ecd6b89b4d0b4a75cf13052c09069de\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2397f23810b8035de4f82d065aff48cd\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\2397f23810b8035de4f82d065aff48cd\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3dfab04e4f04effdf35634a72c259e57\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\3dfab04e4f04effdf35634a72c259e57\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\fc0757dd9382ec7054883237bbad0e36\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\fc0757dd9382ec7054883237bbad0e36\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\03b0a58cff8fcce1aac47f5c6f0ab7e4\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\03b0a58cff8fcce1aac47f5c6f0ab7e4\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\81c84ddf492f16e66317beb74f0afde8\transformed\jetified-relinker-1.4.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\81c84ddf492f16e66317beb74f0afde8\transformed\jetified-relinker-1.4.1\AndroidManifest.xml:5:5-43
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Durga Vinay\AndroidStudioProjects\QuietTimeApp\app\src\main\AndroidManifest.xml
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:15:9-21:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:18:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:20:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:17:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:19:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:3.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\26fbbfc7954ac0083eb25a5b0df8c346\transformed\jetified-places-3.1.0\AndroidManifest.xml:16:13-91
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e93e2cbbce2ffcfc68a3f3e6da66a8ab\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+meta-data#com.google.gms.fitness.sdk.version
+ADDED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a78a601b9ffda8eb86c564b27de7641\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a78a601b9ffda8eb86c564b27de7641\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\7a78a601b9ffda8eb86c564b27de7641\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:24:13-62
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\960073d90b13c19e25d38ebbb83a3ea4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\b82a50cd424d3b7e8709aa17fa5bd77e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\b82a50cd424d3b7e8709aa17fa5bd77e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c6840ed5c49af8c8c91b88c1d701eeec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.quiettimeapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.quiettimeapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\f3d51bfea696170ddff80dae282a5b7c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Durga Vinay\.gradle\caches\transforms-3\e315d01dfe3a5b1aaefd15948f51be96\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Durga Vinay\.gradle\caches\transforms-3\0cb9cec1fa549da1aaea65d4b637079b\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Durga Vinay\.gradle\caches\transforms-3\c496ddb67a04e6ff84bf3d3bcd5d41b3\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
